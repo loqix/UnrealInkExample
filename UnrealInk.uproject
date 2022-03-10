@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5D719CEF-416F-2CB5-172B-57941E7B628D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealInk",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealInk",
+			"Enabled": true
+		}
+	]
+}
